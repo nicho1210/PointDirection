@@ -1,7 +1,7 @@
 # PointDirection
 Point to where we go
 
-Everytime when I set my destination on my phone
+Everytime when I set my destination on my phone,
 I would not know which direction to go, 
 so I designed the small tools, which can always point at my destination's direction after I set my coordinate.
 
